@@ -67,6 +67,14 @@ Gửi kết quả qua SendPort
 Không làm lag UI
 
 Minh họa cách xử lý tác vụ nặng trong Flutter
+Hình ảnh bổ sung : <img width="555" height="1019" alt="image" src="https://github.com/user-attachments/assets/f0f5b14c-e122-425a-b6c6-4ac4c9283211" />
+<img width="550" height="1017" alt="image" src="https://github.com/user-attachments/assets/53915484-d711-4839-9300-0e8580e31aa3" />
+<img width="546" height="1015" alt="image" src="https://github.com/user-attachments/assets/d6d8b21e-1709-4662-90f2-f66cb89c99e7" />
+<img width="558" height="1018" alt="image" src="https://github.com/user-attachments/assets/986e074b-9740-4d54-be86-e3d80eb5fd1f" />
+<img width="555" height="1012" alt="image" src="https://github.com/user-attachments/assets/b7d4a09a-c770-4983-9dab-8ae1ccf1c2c4" />
+
+
+Bổ sung link video demo : [https://drive.google.com/file/d/1GiW_3VCrnxmO-czcG9-5id6hopUCEt0X/view?usp=sharing ](https://drive.google.com/file/d/1xAqgDcSu5xxKtm0Buu_km9OnPOq9NRT3/view?usp=sharing)
 
 Sinh viên thực hiện
 
