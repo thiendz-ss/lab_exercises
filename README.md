@@ -74,7 +74,7 @@ Hình ảnh bổ sung : <img width="555" height="1019" alt="image" src="https://
 <img width="555" height="1012" alt="image" src="https://github.com/user-attachments/assets/b7d4a09a-c770-4983-9dab-8ae1ccf1c2c4" />
 
 
-Bổ sung link video demo : [https://drive.google.com/file/d/1GiW_3VCrnxmO-czcG9-5id6hopUCEt0X/view?usp=sharing ](https://drive.google.com/file/d/1xAqgDcSu5xxKtm0Buu_km9OnPOq9NRT3/view?usp=sharing)
+Bổ sung link video demo : https://drive.google.com/file/d/1xAqgDcSu5xxKtm0Buu_km9OnPOq9NRT3/view?usp=sharing
 
 Sinh viên thực hiện
 
